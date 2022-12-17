@@ -2,7 +2,7 @@
 A lightweight filter util to make client-side data filtering a breeze.
 
 ## Installation
-```npm i --save lodash```
+```npm i --save filter-by```
 
 ## Usage
 ```javascript
